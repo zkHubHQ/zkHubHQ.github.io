@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[68],{661:function(n,t,e){"use strict";e.r(t);var c={asyncData:function(n){n.params;(0,n.redirect)(302,"/testnet")}},r=e(22),component=Object(r.a)(c,(function(){return(0,this._self._c)("div")}),[],!1,null,"35117932",null);t.default=component.exports}}]);

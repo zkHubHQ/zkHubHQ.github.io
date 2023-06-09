@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/design/test-scoped-css", {data:[{}],fetch:{},mutations:void 0});

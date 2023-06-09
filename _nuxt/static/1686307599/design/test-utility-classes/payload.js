@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/design/test-utility-classes", {data:[{}],fetch:{},mutations:void 0});
